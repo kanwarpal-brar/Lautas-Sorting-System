@@ -7,7 +7,7 @@ Over 26% of recycling goes to wastelands in Toronto alone. People either don’t
 Lautas is based around a neural network which detects items placed in front of it. Once an object is identified, a database of known objects is referenced in order for the program to determine whether an object is garbage, recycling, or compost. Furthermore, to enhance the user experience, Lautas is able to identity valuable objects such as phones, displaying them as so, and preventing them from being processed (when the system is hooked up to a physical component).
 
 #### How do I test it?
-To test Lautas, look for the homepage.html file in the examples folder. This will open a website, based on Semantic-UI, detailing the Lautus system. Scroll down to the bottom of the page and allow the website access to a connected video device. Once video appears on the screen, wait for the system to initialze (you will know that it has when you see text appear on the detection box). Now, simply hold an object in front of the camera and wait for Lautus to identifiy it.
+To test Lautas, download the entire project and look for the homepage.html file in the examples folder. This will open a website, based on Semantic-UI, detailing the Lautus system. Scroll down to the bottom of the page and allow the website access to a connected video device. Once video appears on the screen, wait for the system to initialze (you will know that it has when you see text appear on the detection box). Now, simply hold an object in front of the camera and wait for Lautus to identifiy it.
 
 Note: Lautas is very sensitive and will pick up on objects in the background of testing. It is best tested on a flat-colored background with only a single item in frame.
 
