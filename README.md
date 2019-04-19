@@ -9,4 +9,9 @@ Lautas is based around a neural network which detects items placed in front of i
 #### How do I test i?
 To test Lautas look for the homepage.html file in the examples folder. This will open a website, based on Semantic-UI, detailing the Lautus system. Scroll down to the bottom of the page and allow the website access to a connected video device. Once video appears on the screen, wait for the system to initialze (you will know that it has when you see text appear on the detection box). Now, simply hold an object in front of the camera and wait for Lautus to identifiy it.
 
-###### Lautas was completed as part of the Wolf-Hacks 19 hackahton, sponsered by the Peel District School Board, developed in a team of six memebers, with three focused on coding. The entire system is avaible in a rudimentry form, as the neural network was trained for a minimal amount of time, with Lautas being completed in less than 12 hours.
+###### Lautas was completed as part of the Wolf-Hacks 19 hackathon, sponsered by the Peel District School Board, developed in a team of six memebers, with three focused on coding. The entire system is avaible in a rudimentry form, as the neural network was trained for a minimal amount of time, with Lautas being completed in less than 12 hours.
+
+#### Contributors:
+Eshan B
+Kanwarpal (JustColdToast)
+Imaan G
