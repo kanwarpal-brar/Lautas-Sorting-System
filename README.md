@@ -1,5 +1,6 @@
 # Lautas Sorting System
 Lautas is a look at the technology in the future of waste management; one of the first steps towards a brighter future, and a cleaner environment.
+Check out the original DevPost [here](https://devpost.com/software/lautus-yrl897)
 
 Over 26% of recycling goes to wastelands in Toronto alone. People either don’t know how to, or don’t have enough time to recycle. It's hard to find garbage in piles of recycling and it creates pollution, harming the environment. This is where Lautus sorting systems comes into play. A guide for it's user, helping them correctly separate their trash, recycling, and compost, using the power AI assistance.
 
