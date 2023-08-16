@@ -15,8 +15,8 @@ Note: Lautas is very sensitive and will pick up on objects in the background of 
 ###### Lautas was completed as part of the Wolf-Hacks 2019 hackathon, sponsered by the Peel District School Board, developed in a team of six members, with three focused on coding. The entire system is avalible in a rudimentry form, as the neural network was trained for a minimal amount of time, with the project being completed in less than 12 hours.
 
 #### Contributors:
-Eshan B
+[Eshan Betrabet](https://github.com/SippinOnJuiceBox)
 
-Kanwarpal (JustColdToast)
+[Kanwarpal Brar](https://github.com/kanwarpal-brar)
 
-Imaan G
+[Imaan Gill](https://github.com/Ibolt)
